@@ -46,6 +46,8 @@ Rearranging messy or unstructured data into clean, structured formats. <br><br>
 - Power Query (built-in with Excel)
 - Basic charting and dashboard tools <br><br><br><br>
 
+>  sample files and Screenshots of some class excercises are available here: (https://drive.google.com/drive/folders/1jT89aD3MuCxFUdYQdyRfB3UchaTBTFMe?usp=drive_link)
+<br><br>
 
 
 # PHASE 2: SQL Data Analysis Practice
@@ -91,6 +93,8 @@ My SQL training covered both foundational and advanced database concepts and tec
 - Microsoft SQL Server (2016+)
 - SQL Server Management Studio (SSMS) <br><br><br><br>
 
+>  sample files and Screenshots of some class excercises are available here: (https://drive.google.com/drive/folders/1jT89aD3MuCxFUdYQdyRfB3UchaTBTFMe?usp=drive_link)
+<br><br>
 
 # PHASE 3: Power BI Data Analysis Practice
 
