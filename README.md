@@ -132,9 +132,9 @@ Throughout this journey, I focused on
 ### Tools Used
 - Power BI Desktop (latest version)
 - Power Query (built-in)
-- Excel & SQL as data sources
-
-
+- Excel & SQL as data sources 
+<br>
+>  sample files and Screenshots of some class excercises are available here: (https://drive.google.com/drive/folders/1jT89aD3MuCxFUdYQdyRfB3UchaTBTFMe?usp=drive_link)
 
 
 
